@@ -129,6 +129,4 @@ print(f"PPh 21 Terutang: Rp{pph_21:.0f}","\n")
 
 print("#ayobayarpajak!")
 
-print("CREATED BY: MUHAMMAD HAIKAL MUTHAHHARI")
-
 v = input("Selesai")
